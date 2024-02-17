@@ -1,0 +1,89 @@
+[
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "door": 3,
+        "transmission": "auto",
+        "id": 1,
+        "trips": []
+    },
+    {
+        "size": "s",
+        "fuel": "electric",
+        "door": 3,
+        "transmission": "auto",
+        "id": 2,
+        "trips": []
+    },
+    {
+        "size": "s",
+        "fuel": "gasoline",
+        "door": 5,
+        "transmission": "manual",
+        "id": 3,
+        "trips": []
+    },
+    {
+        "size": "m",
+        "fuel": "electric",
+        "door": 3,
+        "transmission": "auto",
+        "id": 4,
+        "trips": []
+    },
+    {
+        "size": "m",
+        "fuel": "gasoline",
+        "door": 5,
+        "transmission": "manual",
+        "id": 6,
+        "trips": [
+            {
+                "start": 20,
+                "end": 200,
+                "description": "started from kumasi to Accra",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "size": "l",
+        "fuel": "diesel",
+        "door": 5,
+        "transmission": "manual",
+        "id": 7,
+        "trips": []
+    },
+    {
+        "size": "l",
+        "fuel": "electric",
+        "door": 5,
+        "transmission": "auto",
+        "id": 8,
+        "trips": []
+    },
+    {
+        "size": "l",
+        "fuel": "hybrid",
+        "door": 3,
+        "transmission": "auto",
+        "id": 9,
+        "trips": []
+    },
+    {
+        "size": "xl",
+        "fuel": "electric",
+        "door": 5,
+        "transmission": "auto",
+        "id": 10,
+        "trips": []
+    },
+    {
+        "size": "xl",
+        "fuel": "electric",
+        "door": 5,
+        "transmission": "auto",
+        "id": 11,
+        "trips": []
+    }
+]
